@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: streamlit-audiorecorder
+Version: 0.0.2
+Summary: Audio recorder component for streamlit
+Home-page: https://github.com/theevann/streamlit-audiorecorder
+Author: Evann Courdier
+Author-email: 
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/plain
